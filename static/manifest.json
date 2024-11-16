@@ -1,5 +1,5 @@
 {
-  "name": "My Minimal Chrome App",
+  "name": "My Minimal App",
   "short_name": "MyApp",
   "start_url": "/",
   "display": "standalone",
